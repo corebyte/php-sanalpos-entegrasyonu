@@ -3,6 +3,8 @@ Tüm bankalar veya ortak ödeme sistemleri için #php ile geliştirilmiş sanal 
 
 Hazır PHP sanal pos kütüphanesi ile yazılım uzmanlarınız hızlı bir şekilde kendi sisteminize entegre edebilir.
 
+Bankaların sanal pos entegrasyon dokümanları için projedeki klasöre göz atabilirsiniz.
+
 - Garanti bankası php sanal pos entegrasyonu
 - İş bankası php sanal pos entegrasyonu
 - Akbank php sanal pos entegrasyonu
